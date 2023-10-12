@@ -1,2 +1,0 @@
-admin_menu_shop_orders = Orders
-admin_menu_shop_orders_orders = Orders

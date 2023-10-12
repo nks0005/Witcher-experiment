@@ -1,1 +1,0 @@
-modules_admin_menu_tools_database_tables = Database Tables

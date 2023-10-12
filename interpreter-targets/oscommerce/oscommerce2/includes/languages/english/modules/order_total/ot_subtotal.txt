@@ -1,2 +1,0 @@
-module_order_total_subtotal_title = Sub-Total
-module_order_total_subtotal_description = Order Sub-Total

@@ -1,3 +1,0 @@
-module_shipping_flat_text_title = Flat Rate
-module_shipping_flat_text_description = Flat Rate
-module_shipping_flat_text_way = 

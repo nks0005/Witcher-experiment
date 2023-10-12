@@ -1,2 +1,0 @@
-module_content_in_category_listing_title = Category Listing
-module_content_in_category_listing_description = Show the Categories sub-categories listing.

@@ -1,3 +1,0 @@
-module_content_product_info_gtin_title = GTIN
-module_content_product_info_gtin_description = Shows the GTIN (UPC, EAN) Number on the Product Info Page.
-module_content_product_info_gtin_public_title = UPC/EAN: 

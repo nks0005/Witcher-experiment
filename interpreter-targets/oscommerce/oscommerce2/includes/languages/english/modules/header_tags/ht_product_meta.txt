@@ -1,2 +1,0 @@
-module_header_tags_product_meta_title = Product SEO
-module_header_tags_product_meta_description = Add the SEO Meta elements defined when setting up the product, to the header of the product page

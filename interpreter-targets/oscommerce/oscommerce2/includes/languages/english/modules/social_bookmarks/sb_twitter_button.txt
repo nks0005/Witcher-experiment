@@ -1,3 +1,0 @@
-module_social_bookmarks_twitter_button_title = Twitter Button
-module_social_bookmarks_twitter_button_description = Share products with Twitter Button.
-module_social_bookmarks_twitter_button_public_title = Tweet

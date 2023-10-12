@@ -1,2 +1,0 @@
-module_content_header_logo_title = Logo
-module_content_header_logo_description = Adds your Logo into the Header Area of your site.
